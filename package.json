@@ -1,0 +1,11 @@
+{
+  "name": "init-node",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.13.3",
+    "body-parser": "~1.14.1",
+    "underscore": "~1.8.3",
+    "websocket": "~1.0.22",
+    "node-uuid": "~1.4.3"
+  }
+}

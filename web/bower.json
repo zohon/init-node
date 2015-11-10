@@ -1,0 +1,21 @@
+{
+  "name": "application",
+  "authors": [
+    "Edouard Rabany <edouard.rabany@piksel.com>"
+  ],
+  "description": "the application",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "jQuery#~2.1.4"
+  }
+}
